@@ -17,3 +17,6 @@
 |   **c13**  |**Discription 5**   |
 |   **c14**  |  **Discription 6** |
 |   **c15**  |  **MRP** |
+
+### Category Config
+`{"columns":[{"type":"single","column_name":"c2","category_name":"department","concat_cat_columns":[]},{"type":"single","column_name":"c3","category_name":"color_code","concat_cat_columns":[]},{"type":"single","column_name":"c7","category_name":"size","concat_cat_columns":[]}]}`
